@@ -1,3 +1,3 @@
 ## Contributors:
-- Emre Tarakcı 21902607
-- Doruk Onur Çalışkan 21902672
+- Emre Tarakcı
+- Doruk Onur Çalışkan
